@@ -33,8 +33,8 @@
 My confusion comes in with them knowing how many to actually print and when to stop. 
 
 **Link to work**:
-[
-](https://submit.cs50.io/users/veronica-amurphy/cs50/problems/2023/x/mario/less)
+
+(https://submit.cs50.io/users/veronica-amurphy/cs50/problems/2023/x/mario/less)
 
 **Resources:**
 
