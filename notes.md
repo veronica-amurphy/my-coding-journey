@@ -41,6 +41,17 @@ My confusion comes in with them knowing how many to actually print and when to s
 https://www.youtube.com/watch?v=d6c5T0bnNE4
 
 
+
+
+
+
+
+
+
+
+
+
+
 # Learning Log Mae's format
 
 
