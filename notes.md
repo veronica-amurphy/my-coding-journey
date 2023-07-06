@@ -1,3 +1,41 @@
+## July 6, 2023
+
+**Today's Learnings:**
+- I am learning the basics of for and while loops.
+- I am completing the cash and credit assignments for cs50 week 1
+  
+**Thoughts:**
+- I was learning when to use a for loop and a while loop. The while loop allows me to establish a variable and then determine what happens when that variable
+  is greater than that number:
+  
+  
+- My code:
+
+int quarters = 0;
+    
+    while (cents >= 25)
+    
+    {
+        
+        cents = cents - 25;
+
+        quarters++;
+    }
+
+    return quarters;
+
+  } 
+
+It calculates the number of quarters being used because cents are greater than 25. cents is maintained as a variable throughout and is then used to do the same for nickles, dimes, and pennies.
+
+ **Link to work**:
+
+(https://submit.cs50.io/users/veronica-amurphy/cs50/problems/2023/x/cash)
+
+**Resources:**
+
+(https://www.youtube.com/watch?v=vP8_bDbmbOo)
+
 ## June 26, 2023
 
 **Today's Learnings:**
@@ -5,7 +43,7 @@
 - I am completing the mario assignment for cs50 week 1
   
 **Thoughts:**
-- I am having struggles understanding the language and why it is outputting a certain code.
+- I am understanding the language and why it is outputting a certain code.
   
 - My code:
   
