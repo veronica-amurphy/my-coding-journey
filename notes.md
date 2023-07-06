@@ -36,6 +36,11 @@ It calculates the number of quarters being used because cents are greater than 2
 
 (https://www.youtube.com/watch?v=vP8_bDbmbOo)
 
+
+Learned a valuable lesson today, make sure to always commit changes. it does not save for you and it will loose everything.
+
+
+
 ## June 26, 2023
 
 **Today's Learnings:**
